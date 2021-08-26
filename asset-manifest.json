@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/css/main.f25f70d0.chunk.css",
+    "main.js": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/main.c5fcc9dc.chunk.js",
+    "main.js.map": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/main.c5fcc9dc.chunk.js.map",
+    "runtime-main.js": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/runtime-main.4fa581c4.js",
+    "runtime-main.js.map": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/runtime-main.4fa581c4.js.map",
+    "static/js/2.359e067e.chunk.js": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/2.359e067e.chunk.js",
+    "static/js/2.359e067e.chunk.js.map": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/2.359e067e.chunk.js.map",
+    "static/js/3.0d045095.chunk.js": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/3.0d045095.chunk.js",
+    "static/js/3.0d045095.chunk.js.map": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/3.0d045095.chunk.js.map",
+    "index.html": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/index.html",
+    "static/css/main.f25f70d0.chunk.css.map": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/css/main.f25f70d0.chunk.css.map",
+    "static/js/2.359e067e.chunk.js.LICENSE.txt": "/Exercise-2.-Create-a-Coding-Journal-and-Task-List-using-ReactJS-Material-UI-and-Bootstrap.git/static/js/2.359e067e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fa581c4.js",
+    "static/js/2.359e067e.chunk.js",
+    "static/css/main.f25f70d0.chunk.css",
+    "static/js/main.c5fcc9dc.chunk.js"
+  ]
+}
